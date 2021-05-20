@@ -10,7 +10,7 @@ if "%SPHINXBUILD%" == "" (
 set SOURCEDIR=source
 set BUILDDIR=build
 
-set DOCS=../../../gh-pages
+set DOCS=../../publish
 if "%1" == "" goto help
 if "%1" == "github" goto github 
 
