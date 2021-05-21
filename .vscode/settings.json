@@ -1,0 +1,12 @@
+{
+    "restructuredtext.confPath": "${workspaceFolder}\\src\\docs\\source",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "restructuredtext"
+    ]
+}
